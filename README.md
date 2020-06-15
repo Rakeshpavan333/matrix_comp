@@ -1,3 +1,3 @@
 ### Matrix Completion using Gaussian Mixtures
 
-![Alt Text](results.gif)
+![Alt Text](result.gif)
