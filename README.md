@@ -16,7 +16,7 @@ entries since not all users would have watched all the movies. We will also use 
 (synthetic) data matrix.
 
 
-
+![Alt Text](mat.jpg)
 
 
 #### GIF showing the converging Gaussian mixture 
