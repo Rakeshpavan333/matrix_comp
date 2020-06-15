@@ -19,3 +19,6 @@ entries since not all users would have watched all the movies. We will also use 
 #### GIF showing the converging Gaussian mixture 
 
 ![Alt Text](result.gif)
+
+
+![Alt Text](code.ipynb)
