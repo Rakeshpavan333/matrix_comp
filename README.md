@@ -1,1 +1,1 @@
-# matrix_comp
+### Matrix Completion using Gaussian Mixtures
